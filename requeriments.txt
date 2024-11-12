@@ -1,0 +1,6 @@
+pandas
+malplotlib
+streamlit
+numpy
+altair
+base64
